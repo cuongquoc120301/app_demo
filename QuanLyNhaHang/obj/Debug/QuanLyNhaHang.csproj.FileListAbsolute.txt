@@ -1,0 +1,15 @@
+G:\MINHHIEU\CSDL\BTL\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+G:\MINHHIEU\CSDL\BTL\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+G:\MINHHIEU\CSDL\BTL\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+G:\MINHHIEU\CSDL\BTL\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\MetroFramework.Design.dll
+G:\MINHHIEU\CSDL\BTL\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\MetroFramework.dll
+G:\MINHHIEU\CSDL\BTL\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\MetroFramework.Fonts.dll
+G:\MINHHIEU\CSDL\BTL\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+G:\MINHHIEU\CSDL\BTL\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+G:\MINHHIEU\CSDL\BTL\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+G:\MINHHIEU\CSDL\BTL\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+G:\MINHHIEU\CSDL\BTL\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+G:\MINHHIEU\CSDL\BTL\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+G:\MINHHIEU\CSDL\BTL\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+G:\MINHHIEU\CSDL\BTL\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.ThongKe.resources
+G:\MINHHIEU\CSDL\BTL\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
